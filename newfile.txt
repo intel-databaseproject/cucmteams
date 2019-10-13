@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 are you serious
 what i shold do
+=======
+what are yoy
+'doing buddy
+
+>>>>>>> archana
